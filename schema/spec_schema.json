@@ -1,0 +1,64 @@
+{
+  "spec_builder": {
+    "user_info": {
+      "name": "",
+      "timestamp": ""
+    },
+    "protocol_alignment": {
+      "professional_frequency": "",
+      "mirror_protocol_notes": "",
+      "tone_requirements": "",
+      "forbidden_language_patterns": [],
+      "allowed_language_patterns": []
+    },
+    "steps": {
+      "what": {
+        "user_input": "",
+        "refined": "",
+        "clarity_notes": []
+      },
+      "who": {
+        "user_input": "",
+        "refined_primary": "",
+        "refined_secondary": "",
+        "clarity_notes": []
+      },
+      "how": {
+        "user_input": "",
+        "refined_steps": [],
+        "clarity_notes": []
+      },
+      "when": {
+        "user_input": "",
+        "refined": "",
+        "clarity_notes": []
+      },
+      "with": {
+        "user_input": "",
+        "refined_tools": [],
+        "clarity_notes": []
+      }
+    },
+    "problem": {
+      "user_input": "",
+      "refined": "",
+      "clarity_notes": []
+    },
+    "success_metrics": {
+      "user_input": [],
+      "refined": []
+    },
+    "constraints": {
+      "user_input": [],
+      "refined": []
+    },
+    "summary": {
+      "build_ready_overview": "",
+      "next_steps": [],
+      "validation_log": {
+        "forbidden_language_check_passed": false,
+        "notes": ""
+      }
+    }
+  }
+}

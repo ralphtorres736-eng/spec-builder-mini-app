@@ -1,1 +1,55 @@
+{
+  "onboarding": {
+    "title": "Welcome to the Spec Builder",
+    "subtitle": "A clear, five-step process to help you define your product without overwhelm.",
+    "what_to_expect": [
+      "You’ll answer five simple questions.",
+      "The system will reflect your answers back with more clarity.",
+      "No features will be added or invented.",
+      "You’ll receive a clean, build-ready spec at the end."
+    ],
+    "start_button": "Begin"
+  },
+
+  "navigation": {
+    "next": "Next",
+    "back": "Back",
+    "finish": "Generate My Spec"
+  },
+
+  "steps": {
+    "what": {
+      "title": "Step 1: What Are You Building?",
+      "helper": "Describe your product in one or two sentences. Keep it simple. No need for technical details."
+    },
+    "who": {
+      "title": "Step 2: Who Is It For?",
+      "helper": "Describe the primary user. If there’s a secondary user, you can include them too."
+    },
+    "how": {
+      "title": "Step 3: How Does It Work?",
+      "helper": "List the steps a user takes from start to finish. Keep it chronological and simple."
+    },
+    "when": {
+      "title": "Step 4: When Do They Use It?",
+      "helper": "Describe the moment or trigger that causes the user to take action."
+    },
+    "with": {
+      "title": "Step 5: What Tools Do You Need?",
+      "helper": "List any tools, resources, or platforms you believe are required."
+    }
+  },
+
+  "errors": {
+    "missing_input": "Please enter a response before continuing.",
+    "too_vague": "This needs a bit more clarity. Try adding one more detail.",
+    "invalid_format": "The format doesn’t match what this step requires."
+  },
+
+  "confirmation": {
+    "title": "Your Spec Is Ready",
+    "message": "Your answers have been refined, aligned with the Mirror Protocol, and validated for clarity. You can now download your build-ready specification.",
+    "download_button": "Download PDF"
+  }
+}
 

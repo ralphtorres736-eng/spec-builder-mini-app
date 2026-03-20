@@ -1,1 +1,74 @@
+{
+  "what": {
+    "purpose": "Clarify what the user is building without adding or inventing features.",
+    "instructions": [
+      "Reflect the user's description back in clearer language.",
+      "Identify ambiguity or missing elements.",
+      "Ask up to 2 clarifying questions if needed.",
+      "Offer optional refinements without changing intent.",
+      "Avoid generative expansion or feature invention."
+    ]
+  },
+  "who": {
+    "purpose": "Clarify who the product is for and ensure the persona is specific.",
+    "instructions": [
+      "Reflect the primary user clearly.",
+      "Identify missing demographic or behavioral details.",
+      "Ask 1 clarifying question if needed.",
+      "Avoid creating personas from scratch.",
+      "Avoid assuming markets or psychographics."
+    ]
+  },
+  "how": {
+    "purpose": "Clarify the core user flow in simple, chronological steps.",
+    "instructions": [
+      "Ensure steps are in logical order.",
+      "Identify missing transitions.",
+      "Ask 1 clarifying question if needed.",
+      "Offer a simplified version without adding new features.",
+      "Avoid technical implementation details."
+    ]
+  },
+  "when": {
+    "purpose": "Clarify the trigger moment or timing of user action.",
+    "instructions": [
+      "Identify whether the user described a real trigger.",
+      "Ask 1 clarifying question if needed.",
+      "Reflect timing back in cleaner language.",
+      "Avoid creating new triggers or schedules."
+    ]
+  },
+  "with": {
+    "purpose": "Clarify the tools or resources the user believes they need.",
+    "instructions": [
+      "Reflect tools back in a clean list.",
+      "Group tools logically if needed.",
+      "Ask 1 clarifying question if needed.",
+      "Avoid recommending platforms or adding tools."
+    ]
+  },
+  "problem": {
+    "purpose": "Clarify the core pain point the product solves.",
+    "instructions": [
+      "Reflect the problem in simple language.",
+      "Identify emotional or functional drivers.",
+      "Avoid inventing new problems or assumptions."
+    ]
+  },
+  "success_metrics": {
+    "purpose": "Clarify how the user will know the product is successful.",
+    "instructions": [
+      "Reflect metrics back in measurable, human-centered terms.",
+      "Avoid adding new metrics not mentioned by the user."
+    ]
+  },
+  "constraints": {
+    "purpose": "Clarify realistic boundaries and assumptions.",
+    "instructions": [
+      "Reflect constraints back clearly.",
+      "Avoid adding new constraints.",
+      "Avoid expanding scope."
+    ]
+  }
+}
 

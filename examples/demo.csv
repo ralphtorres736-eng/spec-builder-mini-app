@@ -1,1 +1,10 @@
+step,input
+what,"A simple tool that helps me turn my rough product idea into a clear, build-ready specification without needing technical knowledge."
+who,"People who have an idea for a digital product but don’t know how to structure it. Also helpful for early-stage founders and creators who want clarity before building."
+how,"1. I describe what I’m building. 2. I describe who it’s for. 3. I list the steps of how it works. 4. I explain when the user takes action. 5. I list the tools I think I need."
+when,"When someone has an idea but feels stuck, overwhelmed, or unsure how to start building."
+with,"A browser, this mini-app, and any notes or ideas I already have."
+problem,"I have an idea but it’s messy, unclear, or unstructured. I need help turning it into something I can actually build."
+success_metrics,"I end up with a clean PDF that explains my idea clearly. I feel confident. I know what to build next."
+constraints,"I don’t want technical jargon. I don’t want the system to invent features. I want clarity without complexity."
 
